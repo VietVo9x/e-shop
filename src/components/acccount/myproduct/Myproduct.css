@@ -1,0 +1,29 @@
+td.id {
+    display: block;
+    text-align: left;
+}
+td.id h4 {
+    padding-left: 25px;
+}
+td.image img {
+    display: block;
+    width: 100px; 
+    height: 100px; 
+    object-fit: cover;
+}
+td.image p{
+    padding-top: 5px;
+}
+td.price p {
+    padding-top: 5px;
+}
+td.action-edit i,td.action-delete i {
+    font-size: 20px;
+    padding-top: 5px;
+}
+td.action-edit{
+    text-align: right;
+}
+td.action-delete {
+    text-align: center;
+}
